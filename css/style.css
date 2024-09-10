@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+.header {
+    margin: auto auto 30px auto;
+    border-bottom: solid medium;
+}
+
+.contents {
+    margin: auto;
+}
+
+.institute {
+    font-style: italic;
+}
