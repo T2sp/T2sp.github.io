@@ -17,3 +17,13 @@
 .institute {
     font-style: italic;
 }
+
+.inprogress {
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 1px 1px;
+    font-size: 0.4em;
+    position: relative;
+    top: -10px;
+    /* vertical-align: super; */
+}
